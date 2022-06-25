@@ -8,12 +8,12 @@ Tecnologias empregadas: PHP, MySQL, Javascript e HTML
 IDE utilizada: VS Code
 Servidor: XAMPP
 
-<img src="/prints/1.jpg"/>
+
 
 # Sobre a aplicação
 Neste aplicativo de bate-papo, ao abri-lo pela primeira vez em seu navegador, é mostrado um formulário de inscrição onde você deve se inscrever com seus dados como nome, e-mail, senha e imagem. O campo de e-mail e imagem é totalmente validado, o que significa que você deve inserir apenas um e-mail válido e um arquivo de imagem. Depois de se inscrever com sucesso, você será redirecionado para a página do usuário, onde poderá ver seu nome completo, imagem, status e botão de logout na parte superior, e usuários como você aparecem na parte inferior se alguém se inscreveu.
 
-<img src="/prints/2.jpg"/>
+<img src="/prints/1.jpg"/> <img src="/prints/2.jpg"/>
 
 Nesta página, você pode ver a imagem, o nome, o status e a última mensagem, se eles enviaram para você. Você precisa clicar no usuário específico ou também pode pesquisar qualquer usuário existente com o nome dele, então você será redirecionado para a página de bate-papo e lá poderá ver a imagem, o nome, o status desse usuário que vai conversar.
 
