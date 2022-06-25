@@ -8,11 +8,19 @@ Tecnologias empregadas: PHP, MySQL, Javascript e HTML
 IDE utilizada: VS Code
 Servidor: XAMPP
 
+<img src="/prints/1.jpg"/>
+
 # Sobre a aplicação
 Neste aplicativo de bate-papo, ao abri-lo pela primeira vez em seu navegador, é mostrado um formulário de inscrição onde você deve se inscrever com seus dados como nome, e-mail, senha e imagem. O campo de e-mail e imagem é totalmente validado, o que significa que você deve inserir apenas um e-mail válido e um arquivo de imagem. Depois de se inscrever com sucesso, você será redirecionado para a página do usuário, onde poderá ver seu nome completo, imagem, status e botão de logout na parte superior, e usuários como você aparecem na parte inferior se alguém se inscreveu.
 
+<img src="/prints/2.jpg"/>
+
 Nesta página, você pode ver a imagem, o nome, o status e a última mensagem, se eles enviaram para você. Você precisa clicar no usuário específico ou também pode pesquisar qualquer usuário existente com o nome dele, então você será redirecionado para a página de bate-papo e lá poderá ver a imagem, o nome, o status desse usuário que vai conversar.
 
+<img src="/prints/3.jpg"/>
+
 Depois de enviar uma mensagem para outro usuário, imediatamente essa mensagem aparecerá na sua caixa de bate-papo e em outra caixa de bate-papo do usuário para a qual você enviou a mensagem. Na caixa de bate-papo do receptor de mensagens, esse usuário recebeu a mensagem com a imagem do remetente. Lembre-se de que a caixa de bate-papo será rolada automaticamente para a parte inferior assim que a caixa de bate-papo começar a rolar. Você pode sair do aplicativo de bate-papo a qualquer momento e, assim que sair, imediatamente todos os outros usuários saberão que você saiu ou está offline.
+
+<img src="/prints/4.jpg"/>
 
 Depois de sair, você pode fazer login novamente e com seu e-mail e senha que você usou ao se inscrever no formulário. Se você inseriu as credenciais corretas, será redirecionado para a página do usuário e todos os outros usuários saberão imediatamente que você fez logon e agora está ativo.
