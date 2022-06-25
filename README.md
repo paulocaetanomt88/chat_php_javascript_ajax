@@ -2,7 +2,6 @@
 que é uma técnica javascript que utiliza o método XMLHttpRequest para fazer requisições assíncronas. Pensando de forma simples, uma função javascript assume o papel de navegador acessando uma determinada url e fornecendo como retorno o conteúdo HTML gerado pela url acessada.
 
 Segui o video tutorial no Youtube porém fiz o código-fonte em português, criei minhas variáveis e adicionei comentários explicativos para melhorar a experiência de aprendizado e facilitar o entendimento de quem for analisar este projeto.
-Quem quiser ver o video tutorial e projeto original pode acessar pelo link: <https://www.youtube.com/watch?v=VnvzxGWiK54>
 
 Tecnologias empregadas: PHP, MySQL, Javascript e HTML
 IDE utilizada: VS Code
@@ -24,3 +23,5 @@ Depois de enviar uma mensagem para outro usuário, imediatamente essa mensagem a
 <img src="/prints/4.jpg"/>
 
 Depois de sair, você pode fazer login novamente e com seu e-mail e senha que você usou ao se inscrever no formulário. Se você inseriu as credenciais corretas, será redirecionado para a página do usuário e todos os outros usuários saberão imediatamente que você fez logon e agora está ativo.
+
+Quem quiser ver o video tutorial <https://www.youtube.com/watch?v=VnvzxGWiK54> e projeto original pode acessar pelo link <https://www.codingnepalweb.com/chat-web-application-using-php/>
