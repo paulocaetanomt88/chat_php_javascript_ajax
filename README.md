@@ -1,4 +1,5 @@
-# ChatApp - chat em tempo real com PHP, Javascript, MySQL empregando AJAX (Asynchronous Javascript and XML) que é uma técnica javascript que utiliza o método XMLHttpRequest para fazer requisições assíncronas. Pensando de forma simples, uma função javascript assume o papel de navegador acessando uma determinada url e fornecendo como retorno o conteúdo HTML gerado pela url acessada.
+# ChatApp - chat em tempo real com PHP, Javascript, MySQL empregando AJAX (Asynchronous Javascript and XML)
+que é uma técnica javascript que utiliza o método XMLHttpRequest para fazer requisições assíncronas. Pensando de forma simples, uma função javascript assume o papel de navegador acessando uma determinada url e fornecendo como retorno o conteúdo HTML gerado pela url acessada.
 
 Segui o video tutorial no Youtube porém fiz o código-fonte em português, criei minhas variáveis e adicionei comentários explicativos para melhorar a experiência de aprendizado e facilitar o entendimento de quem for analisar este projeto.
 Quem quiser ver o video tutorial e projeto original pode acessar pelo link: <https://www.youtube.com/watch?v=VnvzxGWiK54>
